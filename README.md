@@ -1,7 +1,7 @@
-# Algorithms Hacktoberfest 2021
+# Algorithms Hacktoberfest 2022
 
-# :star_struck: Hacktoberfest_2021 :star_struck:
-![Screenshot 2021-09-29 at 12 29 41 AM](https://user-images.githubusercontent.com/29686102/135149193-d87a9188-6b54-4839-80dd-48d2a4983a80.png)
+# :star_struck: Hacktoberfest_2022 :star_struck:
+![image](https://user-images.githubusercontent.com/30775542/194536427-e22c5081-a29b-4577-9dd5-d9664ec701d4.png)
 
 ### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
 
@@ -11,7 +11,7 @@
 
 ### This repository is open to all members of the GitHub community. Any member can contribute to this project! :grin:
 
-:point_right: Repo Link : [https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2021](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2021)
+:point_right: Repo Link : [https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2022](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2022)
 
 ## What is Hacktoberfest? :thinking:
 Hacktoberfest — brought to you by [DigitalOcean](https://hacktoberfest.digitalocean.com/) in partnership with [GitHub](https://github.blog/2017-09-27-celebrate-open-source-this-october-with-hacktoberfest/) and [Intel](https://www.intel.in/) — is a month-long celebration of open source software. Maintainers are invited to guide would-be contributors towards resolving issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like, and ones they've just discovered. **No contribution is too small** — bug fixes and documentation updates are valid ways of participating. Celebrated every month of October based on the German festivity Oktoberfest.
@@ -21,14 +21,14 @@ Hacktoberfest is *open to everyone* in the global community. Whether you’re a 
 Visit the official website of [Hacktoberfest] (https://hacktoberfest.digitalocean.com/).
 
 ## Rules :fire:
-To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2021 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 50,000__ participants who complete the challenge will earn a T-shirt.
+To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2022 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 50,000__ participants who complete the challenge will earn a T-shirt.
 
 ## Choose from these tasks :rainbow:
 
 Here is easy ways to contribute to this project:
 
 
-## Task : [Algorithm Skills](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2021) :rocket:
+## Task : [Algorithm Skills](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2022) :rocket:
 Help us in making a one-stop place to find necessary codes and articles, which can vary from `Hello World` to `Dynamic Programming` in any language of your choice.  
 :star: The file structure will be as follows:
 
@@ -37,7 +37,7 @@ Help us in making a one-stop place to find necessary codes and articles, which c
 ├── <implementation file> (With commented sample input/output. In any language including C/Java/Python etc.)
 ```
 
-:eyes: Upload your contribution here in this folder [Task](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2021)
+:eyes: Upload your contribution here in this folder [Task](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2022)
 
 ## Make a pull request for your work and wait for it to be merged! :heart:
 
@@ -51,9 +51,9 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [HacktoberFest_2021](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2021) by using the <a href="https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2021/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2021/new/master?readme=1#fork-destination-box) at top-right of your screen.
+You can get your own fork/copy of [HacktoberFest_2022](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2022) by using the <a href="https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2022/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2022/new/master?readme=1#fork-destination-box) at top-right of your screen.
 
- [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2021)
+ [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2022)
 
 
 ### 2. Clone it :busts_in_silhouette:
@@ -63,16 +63,16 @@ You can get your own fork/copy of [HacktoberFest_2021](https://github.com/radadi
 You need to clone (download) it to local machine using
 
 ```sh
-$ git clone https://github.com/Your_Username/Algorithm-Hacktoberfest-2021.git
+$ git clone https://github.com/Your_Username/Algorithm-Hacktoberfest-2022.git
 ```
 
 > This makes a local copy of the repository in your machine.
 
-Once you have cloned the `Algorithm-Hacktoberfest-2021` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
+Once you have cloned the `Algorithm-Hacktoberfest-2022` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
 
 ```sh
-# This will change directory to a folder Hacktoberfest_2021
-$ cd Algorithm-Hacktoberfest-2021
+# This will change directory to a folder Hacktoberfest_2022
+$ cd Algorithm-Hacktoberfest-2022
 ```
 
 Move to this folder for all other commands.
@@ -93,13 +93,13 @@ $ git checkout main
 # Reset local `main` branch to match the `upstream` repository's `main` branch
 $ git reset --hard upstream/main
 
-# Push changes to your forked `Algorithm-Hacktoberfest-2021` repo
+# Push changes to your forked `Algorithm-Hacktoberfest-2022` repo
 $ git push origin main
 ```
 
 ### 5. Ready Steady Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing by checking our `Good First Issue` Issues and creating [pull requests](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2021/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our `Good First Issue` Issues and creating [pull requests](https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2022/pulls).
 
 ### 6. Create a new branch :bangbang:
 
@@ -144,8 +144,8 @@ Finally, go to your repository in the browser and click on `compare and pull req
 Then add a title and description to your pull request that explains your precious effort.
 
 ## Awesome contributors :star_struck:
-<a href="https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2021/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=radadiyamohit81/Algorithm-Hacktoberfest-2021&max=300" />
+<a href="https://github.com/radadiyamohit81/Algorithm-Hacktoberfest-2022/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=radadiyamohit81/Algorithm-Hacktoberfest-2022&max=300" />
 </a>
 
 Made with [contributors-img](https://contributors-img.web.app).
